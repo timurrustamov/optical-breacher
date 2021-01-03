@@ -29,7 +29,8 @@
     }
 
     #root {
-      height: calc(100% - 12px);
+      display: flex;
+      min-height: calc(100% - 12px);
       border: 1px solid #ff606080;
     }
 
